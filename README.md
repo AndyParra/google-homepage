@@ -1,0 +1,2 @@
+In this project I'll deconstruct and rebuild an existing web page. The idea behind this is to test what I've learned about basic HTML & CSS.
+I should know how to: move a div around the page in more than one way, stick a div onto the bottom or top of the page, identify the background color of an existing webpage, grab the URL for an image from an existing webpage, center an element horizontally, identify three ways to include CSS in a page, understand how to use clases and ids to target CSS at specific elements on the page, and build a very basic form.
